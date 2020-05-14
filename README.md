@@ -1,1 +1,1 @@
-# linear_regression from scratch
+# linear_regression from scratch, no sklearn
